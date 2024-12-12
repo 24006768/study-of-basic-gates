@@ -1,4 +1,7 @@
-### study-of-basic-gates
+NAME: DAKSHA C
+REGISTRATION NO: 24006768
+
+EXPERIMENT NO : 1 *study-of-basic-gates*
 
 **AIM:** 
 
@@ -63,17 +66,18 @@ Y= A⊕B
 
 
 **PROGRAM**
+![8](https://github.com/user-attachments/assets/9cbcfac7-0ec1-4be8-9006-597381499b4e)
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: RegisterNumber: 
- 
 **Logic symbol & Truthtable**
+![9](https://github.com/user-attachments/assets/959c1300-27af-4dde-9e84-6d33f1a41ca7)
 
 **RTL realization Output:** 
+![10](https://github.com/user-attachments/assets/e3bac65f-0128-4871-8988-cd44a35ea304)
 
 **RTL**
+![11](https://github.com/user-attachments/assets/b8354945-cce6-44ec-bf5f-3510becd0061)
 
 **Result:**
+The truth table of logic gates in Quartus || using verilog programming is verified.
 
 
