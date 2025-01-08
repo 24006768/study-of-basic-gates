@@ -68,19 +68,20 @@ Y= A⊕B
 
 **PROGRAM**
 
-![8](https://github.com/user-attachments/assets/9cbcfac7-0ec1-4be8-9006-597381499b4e)
+![image](https://github.com/user-attachments/assets/da15718e-3a27-4f13-b407-6b98ca5374c4)
 
 **LOGIC SYMBOL & TRUTH TABLE**
 
-![9](https://github.com/user-attachments/assets/959c1300-27af-4dde-9e84-6d33f1a41ca7)
+![image](https://github.com/user-attachments/assets/4237b29c-5114-460a-a7e7-ce8cce7badf4)
+
 
 **RTL REALIZATION OUTPUT:** 
 
-![10](https://github.com/user-attachments/assets/e3bac65f-0128-4871-8988-cd44a35ea304)
+![image](https://github.com/user-attachments/assets/56de123f-9ed3-413a-945e-69bc64c4faa4)
 
-**RTL**
+**TIMING DIAGRAM**
 
-![11](https://github.com/user-attachments/assets/b8354945-cce6-44ec-bf5f-3510becd0061)
+![image](https://github.com/user-attachments/assets/7012552f-f090-4f5d-b02c-261b8d63235e)
 
 **RESULT:**
 
